@@ -1,0 +1,73 @@
+<html>
+	<head>
+		<meta charset="Utf-8"/>
+		<link rel="stylesheet" type="text/css" href="style.css"/>
+		<title>Новости</title>
+	</head>
+	
+	<body>
+		<header>
+			<div id="wrapperHeader">
+				<div id="logotype"></div>
+				<input type="text" id="search" placeholder=" Поиск"/>
+			</div>
+		</header>
+		
+		<div id="list">
+			<button id="button1"> &nbsp &nbsp &nbsp Моя страница</button> 
+			<button id="button2"> &nbsp &nbsp &nbsp Новости</button> 
+			<button id="button3"> &nbsp &nbsp &nbsp Сообщения</button> 
+			<button id="button4"> &nbsp &nbsp &nbsp Друзья</button> 
+			<button id="button5"> &nbsp &nbsp &nbsp Сообщества</button> 
+			<button id="button6"> &nbsp &nbsp &nbsp Фотографии</button> 
+			<button id="button7"> &nbsp &nbsp &nbsp Музыка</button> 
+			<button id="button8"> &nbsp &nbsp &nbsp Видео</button> 
+			<button id="button9"> &nbsp &nbsp &nbsp Клипы</button> 
+		</div>
+		
+		<div id="str">
+			<input type="text" id="strSearch" placeholder="Что у Вас нового?"/>
+		</div>
+		
+		<div id="posts">
+		<button id="button10"></button>
+		<button id="button11"></button>
+		<button id="button12"></button>
+		<button id="button13"></button>
+		</div>
+		
+		<div id="storiesBlock">Истории
+			<div id="stories1"><button id="button14"></button></div>
+			<div id="stories2"><button id="button15"></button></div>
+			<div id="stories3"><button id="button16"></button></div>
+			<div id="stories4"><button id="button17"></button></div>
+			<div id="stories5"><button id="button18"></button></div>
+		</div>
+		
+		<div id="recomend">
+			<button id="button19">  &nbsp &nbsp Новости</button> 
+			<button id="button20"> &nbsp &nbsp &nbsp Фотографии</button> 
+			<button id="button21"> &nbsp &nbsp &nbsp Видеозаписи</button> 
+			<button id="button22"> &nbsp &nbsp &nbsp  Подкасты</button> 
+			<button id="button23"> &nbsp &nbsp Рекомендации</button> 
+			<button id="button24"> &nbsp &nbsp Трансляции</button> 
+			<button id="button25"> &nbsp &nbsp Поиск</button> 
+			<button id="button26"> &nbsp &nbsp Понравилось</button> 
+			<button id="button27"> &nbsp &nbsp Обновления</button> 
+			<button id="button28"> &nbsp &nbsp Коментарии</button> 
+		</div>
+		
+		<div id="news">	
+			<a id="group"><small>Подслушано КФУ</small></a>
+			<small id="clock">час назад</small>
+			<img src="C:\Users\mansu\Desktop\Вк\images\итис.jpg" id="newsPhoto"/>
+			<img src="C:\Users\mansu\Desktop\Вк\images\лайк.png" id="like"/>
+		</div>
+		
+		<div id="spam">	
+		</div>
+		
+		<footer>
+		</footer>
+	</body>
+</html>
